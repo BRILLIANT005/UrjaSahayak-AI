@@ -1,0 +1,52 @@
+[
+  {
+    "id": "route_001",
+    "from": "Saudi Arabia",
+    "to": "Vadinar",
+    "corridor": "Strait of Hormuz",
+    "transit_days": 8,
+    "capacity_bpd": 700000,
+    "risk_score": 72,
+    "status": "High Risk"
+  },
+  {
+    "id": "route_002",
+    "from": "Iraq",
+    "to": "Mundra",
+    "corridor": "Strait of Hormuz",
+    "transit_days": 9,
+    "capacity_bpd": 600000,
+    "risk_score": 74,
+    "status": "High Risk"
+  },
+  {
+    "id": "route_003",
+    "from": "Nigeria",
+    "to": "Vadinar",
+    "corridor": "Cape of Good Hope",
+    "transit_days": 18,
+    "capacity_bpd": 400000,
+    "risk_score": 32,
+    "status": "Available"
+  },
+  {
+    "id": "route_004",
+    "from": "Brazil",
+    "to": "Paradip",
+    "corridor": "Atlantic Ocean",
+    "transit_days": 22,
+    "capacity_bpd": 300000,
+    "risk_score": 25,
+    "status": "Available"
+  },
+  {
+    "id": "route_005",
+    "from": "United States",
+    "to": "Mundra",
+    "corridor": "Cape of Good Hope",
+    "transit_days": 25,
+    "capacity_bpd": 250000,
+    "risk_score": 30,
+    "status": "Available"
+  }
+]
