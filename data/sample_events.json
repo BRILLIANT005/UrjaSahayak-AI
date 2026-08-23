@@ -1,0 +1,29 @@
+[
+  {
+    "id": "event_001",
+    "timestamp": "2026-08-23T08:30:00Z",
+    "event_type": "military_escalation",
+    "location": "Strait of Hormuz",
+    "severity": 5,
+    "source_reliability": 0.9,
+    "description": "Military escalation has increased maritime transit risk in the Strait of Hormuz."
+  },
+  {
+    "id": "event_002",
+    "timestamp": "2026-08-23T09:15:00Z",
+    "event_type": "shipping_advisory",
+    "location": "Red Sea",
+    "severity": 4,
+    "source_reliability": 0.85,
+    "description": "Shipping operators have issued advisories due to increased security incidents."
+  },
+  {
+    "id": "event_003",
+    "timestamp": "2026-08-23T10:00:00Z",
+    "event_type": "insurance_increase",
+    "location": "Strait of Hormuz",
+    "severity": 3,
+    "source_reliability": 0.8,
+    "description": "War-risk insurance premiums have increased for vessels using the corridor."
+  }
+]
