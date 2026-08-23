@@ -1,0 +1,42 @@
+[
+  {
+    "id": "saudi_arabia",
+    "name": "Saudi Arabia",
+    "region": "Middle East",
+    "max_supply_bpd": 800000,
+    "risk_score": 68,
+    "sanctions_risk": "Low"
+  },
+  {
+    "id": "iraq",
+    "name": "Iraq",
+    "region": "Middle East",
+    "max_supply_bpd": 700000,
+    "risk_score": 70,
+    "sanctions_risk": "Medium"
+  },
+  {
+    "id": "nigeria",
+    "name": "Nigeria",
+    "region": "West Africa",
+    "max_supply_bpd": 450000,
+    "risk_score": 35,
+    "sanctions_risk": "Low"
+  },
+  {
+    "id": "brazil",
+    "name": "Brazil",
+    "region": "South America",
+    "max_supply_bpd": 350000,
+    "risk_score": 28,
+    "sanctions_risk": "Low"
+  },
+  {
+    "id": "usa",
+    "name": "United States",
+    "region": "North America",
+    "max_supply_bpd": 400000,
+    "risk_score": 25,
+    "sanctions_risk": "Low"
+  }
+]
